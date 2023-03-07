@@ -1,2 +1,1 @@
-# tdd4js
-Test-Driven Development for JavaScript
+##### [Lesson one](./01): getting started with JavaScript testing
